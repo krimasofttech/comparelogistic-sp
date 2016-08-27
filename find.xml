@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'app'" />
-    <option name="defaultScopeName" value="Module 'app'" />
+    <option name="customScope" value="Directory 'J:\Hibernate\StudioProjects\Comparelogistic\app'" />
+    <option name="defaultScopeName" value="Directory 'J:\Hibernate\StudioProjects\Comparelogistic\app'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'app'" />
+    <option name="SEARCH_SCOPE" value="Directory 'J:\Hibernate\StudioProjects\Comparelogistic\app'" />
   </component>
 </application>
